@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Lee jeonghyuk");
         World.run();
         world.run2();
+        Hello.run();
     }
 }
